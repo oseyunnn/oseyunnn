@@ -159,11 +159,11 @@ A database-driven platform to manage and monitor campus pets — tracking inform
 
 | Skill | | |
 |:---|:---:|---:|
-| **📦 Publishing Games** · *reaching real players* | ![50](https://progress-bar.xyz/50?scale=100&title=&width=240&color=ffffff&suffix=) | `50%` |
-| **🤖 AI Model Dev** · *learning & experimenting* | ![30](https://progress-bar.xyz/30?scale=100&title=&width=240&color=ffffff&suffix=) | `30%` |
-| **🏗 Backend Architecture** · *scalable systems* | ![60](https://progress-bar.xyz/60?scale=100&title=&width=240&color=ffffff&suffix=) | `60%` |
-| **🗄 Database Design** · *strengthening foundations* | ![60](https://progress-bar.xyz/60?scale=100&title=&width=240&color=ffffff&suffix=) | `60%` |
-| **🌍 Impactful Projects** · *open source · social good* | ![60](https://progress-bar.xyz/60?scale=100&title=&width=240&color=ffffff&suffix=) | `60%` |
+| **📦 Publishing Games** | ![50](https://progress-bar.xyz/50?scale=100&title=&width=240&color=ffffff&suffix=) | `50%` |
+| **🤖 AI Model Dev**  | ![30](https://progress-bar.xyz/30?scale=100&title=&width=240&color=ffffff&suffix=) | `30%` |
+| **🏗 Backend Architecture** | ![60](https://progress-bar.xyz/60?scale=100&title=&width=240&color=ffffff&suffix=) | `60%` |
+| **🗄 Database Design**  | ![60](https://progress-bar.xyz/60?scale=100&title=&width=240&color=ffffff&suffix=) | `60%` |
+| **🌍 Social Impact Driven Projects**  | ![60](https://progress-bar.xyz/60?scale=100&title=&width=240&color=ffffff&suffix=) | `60%` |
 
 </div>
 
