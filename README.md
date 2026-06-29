@@ -8,9 +8,9 @@
 # Angela Jahziel *"AJ"* Encabo
 
 ![](https://img.shields.io/badge/BSCS--2%20·%20CIT--U-1B2B4B?style=flat-square&logoColor=8AA8CC&labelColor=0d1b2a)
-&nbsp;·&nbsp;
+&nbsp; | &nbsp;
 ![](https://img.shields.io/badge/Cebu%20City%2C%20PH-1B2B4B?style=flat-square&logo=googlemaps&logoColor=8AA8CC&labelColor=0d1b2a)
-&nbsp;·&nbsp;
+&nbsp;| &nbsp;
 ![](https://img.shields.io/badge/github-oseyunnn-1B2B4B?style=flat-square&logo=github&logoColor=8AA8CC&labelColor=0d1b2a)
 
 ---
