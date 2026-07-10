@@ -133,21 +133,17 @@ A database-driven platform to manage and monitor campus pets — tracking inform
 
 <br />
 
+
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=oseyunnn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=6A9FCC&icon_color=4A6FA5&text_color=C8D8F0&ring_color=2D4270&count_private=true" alt="AJ's GitHub Stats" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oseyunnn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1B2A&title_color=6A9FCC&text_color=C8D8F0&langs_count=7" alt="Most Used Languages" />
-
+  <img src="https://streak-stats.demolab.com?user=oseyunnn&theme=tokyonight&hide_border=true&background=0D1B2A&ring=4A6FA5&fire=6A9FCC&currStreakLabel=C8D8F0&sideLabels=8AA8CC&dates=8AA8CC&currStreakNum=C8D8F0&sideNums=C8D8F0" alt="GitHub Streak" />
 </div>
-
+<br />
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=oseyunnn&theme=tokyo-night&hide_border=true&bg_color=0D1B2A&color=8AA8CC&line=6A9FCC&point=C8D8F0" alt="GitHub Activity Graph" />
+</div>
 <br />
 
-<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=oseyunnn&theme=tokyonight&hide_border=true&background=0D1B2A&ring=4A6FA5&fire=6A9FCC&currStreakLabel=C8D8F0&sideLabels=8AA8CC&dates=8AA8CC&currStreakNum=C8D8F0&sideNums=C8D8F0" alt="GitHub Streak" />
-
-</div>
 
 ---
 
