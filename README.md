@@ -173,8 +173,10 @@ A database-driven platform to manage and monitor campus pets — tracking inform
 
 | Achievement | Project | Year |
 |---|---|---|
-| 🥈 2nd Place — IBPAP Can You Hack-IT Challenge | BantAI-Buddy | 2025 |
+| 🥈 2nd Place — IBPAP Can You Hack-IT Challenge | BantAI Buddy | 2025 |
 | 🎮 UPCSG Game Jam Participant | Crossroads of Us | 2026 |
+| 🏆 4th Runner-Up — DOST Central Visayas Next Level: Esports Game Dev Challenge | Salamin at Bakal | 2026 |
+| 🌍 SRG 10th Asian Philanthropic Development Conference Presenter | BantAI Buddy | 2026 |
 
 </div>
 
